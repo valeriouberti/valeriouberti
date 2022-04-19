@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valeriouberti
 - 👀 I’m interested in Kotlin,NodeJS,Typescript,Scala,Python
-- 🌱 I’m currently learning Typescript and NodeJS
-- 💞️ I’m looking to collaborate on some backend fun projects which use Kotlin or Typescript
+- 🌱 I’m currently learning Typescript, NodeJS and Solidity
+- 💞️ I’m looking for collaborations on fun backend projects using Kotlin or Typescript
 - 📫 How to reach me valerio.uberti23@gmail.com
 
 <!---
