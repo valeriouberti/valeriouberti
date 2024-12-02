@@ -21,7 +21,7 @@
 I'm a Backend Engineer from Italy 🇮🇹
 
 - :telescope: I'm working as a Backend Engineer and contributing to Microservices and Event Driven Application.
-- 👀 I’m interested in Kotlin, Java, NodeJS, Typescript and Python
+- 👀 I’m interested in Golang and Typescript.
 - 🌱 In my free time sometimes i write articles here [![medium-badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@valerio.uberti23)
 - 💞️ I’m looking for collaborations on fun backend projects using Golang or Typescript
 - 📫 How to reach me [![linkedin-badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valerio-uberti/)
