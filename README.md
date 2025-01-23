@@ -9,9 +9,6 @@
     <a href="https://www.youtube.com/channel/UCr6A21zMFkbg_eLL28ywJeA">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/valeriouberti23">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
 </div>
 
@@ -21,9 +18,8 @@
 I'm a Backend Engineer from Italy 🇮🇹
 
 - :telescope: I'm working as a Backend Engineer and contributing to Microservices and Event Driven Application.
-- 👀 I’m interested in Golang and Typescript.
+- 👀 I’m interested in Rust, Golang and Typescript.
 - 🌱 In my free time sometimes i write articles here [![medium-badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@valerio.uberti23)
-- 💞️ I’m looking for collaborations on fun backend projects using Golang or Typescript
 - 📫 How to reach me [![linkedin-badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valerio-uberti/)
 
 ---
