@@ -15,7 +15,7 @@
 ---
 ### About Me
 
-Ciao! I'm Valerio, a Backend Engineer based in Italy 🇮🇹, passionate about building scalable and resilient systems.
+Ciao! I'm Valerio, a Senior Software Engineer based in Italy 🇮🇹, passionate about building scalable and resilient systems.
 
 - :telescope: Currently focused on developing Microservices and Event-Driven Applications.
 - 👀 I'm deeply interested in the elegance of **Rust** and **Golang**, the versatility of **Typescript** and **Python**, and the fascinating world of **Computer Vision**.
